@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.top-section-container {
+    background-color: #fb4e71;
+    color: #ffffff;
+    padding: 8px;
+}
+.heading {
+    font-size: 25px;
+    font-weight: bold;
+}
+.paragraph {
+    font-size: 15px;
+}
+.bottom-section-container {
+    background-color: #e6f6ff;
+    height: 420px;
+    padding: 10px;
+}
+.bottom-section-container-heading {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.card-container {
+    padding: 5px;
+}
+.text-container {
+    background-color: #ffffff;
+    padding: 8px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.card-container-heading {
+    font-size: 17px;
+}
+.card-container-paragraph {
+    font-size: 14px;
+    color: #888888;
+}
+.heading {
+    font-size: 18px;
+}
+.image {
+    height: 80px;
+    width: 90px;
+}
+.head {
+    font-size: 10px;
+
+}
+.card {
+    background-color: #e6f6ff;
+    margin: 5px;
+    padding: 10px;
+    border-width: 0px;
+
+}
+.button {
+    height: 35px;
+    width: 125px;
+    text-align: center;
+    font-size: 12px;
+}
